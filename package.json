@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassHacker/pokemon-helper.git"
+  },
+  "author": "ClassHacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClassHacker/pokemon-helper/issues"
+  },
+  "homepage": "https://github.com/ClassHacker/pokemon-helper#readme"
+}
